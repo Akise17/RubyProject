@@ -2,7 +2,9 @@
 lock "~> 3.14.1"
 
 set :application, "RubyProject"
-set :repo_url, "git@github.com:Akise17/RubyProject.git"
+# set :repo_url, "git@github.com:Akise17/RubyProject.git"
+set :repo_url,"https://Akise17:17Desember1994@github.com/Akise17/ContactProject.git"
+
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
